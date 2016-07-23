@@ -1,4 +1,6 @@
 # a super simple example class to use git in ruby
+# doyzfly test modify 2016 07 23
+#
 class SimpleGit
   
   def initialize(git_dir = '.')
